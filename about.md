@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### About Me
 
 Thanks for visiting this site. Originally from the Bay Area, I've spent the most recent 8+ years managing data analytics and operational teams at various tech companies. Prior to that, I was a finance professional for over 15 years performing SEC reporting, auditing, and FP&A.
 
