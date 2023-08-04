@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Adit Deshpande
+name: Jeanie Oh
 
 # Short bio or description (displayed in the header)
-description: Engineering at Forward | UCLA CS '19
+description: Data Analytics & Engineering Leader
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "/images/uclagradpic.jpg"
+avatar: "/images/portrait.png"
 
 #
 # Flags below are optional
@@ -18,14 +18,14 @@ avatar: "/images/uclagradpic.jpg"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: aditdeshpande3@gmail.com
+  email: jeanieoh@berkeley.edu
   flickr:
-  github: adeshpande3
-  instagram: aditdeshpande3
-  linkedin: aditdeshpande3
+  github: jeanie-oh
+  instagram: 
+  linkedin: jeanie-oh-664bb522/
   pinterest:
-  rss: adeshpande
-  twitter: aditdeshpande3
+  rss: 
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -36,7 +36,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-80811190-1
+#  google_analytics: UA-80811190-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
