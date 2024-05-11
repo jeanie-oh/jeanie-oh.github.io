@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  title: "ML Blog"
-  description: "Illustrated tutorials about large language models, graph neural networks, and convex optimization using Python."
-  site-url: https://mlabonne.github.io/blog
+  title: "The Data Chic"
+  description: "Seeing the world through data..."
+  site-url: https://jeanie-oh.github.io/blog
   navbar:
     left:
       - text: "{{< fa book >}} Hands-On GNNs"
@@ -23,8 +23,6 @@ website:
         href: https://twitter.com/maximelabonne
       - icon: github
         href: https://github.com/mlabonne
-      - icon: medium
-        href: https://medium.com/@mlabonne
       - icon: linkedin
         href: https://linkedin.com/in/maxime-labonne/
     pinned: false
@@ -32,7 +30,7 @@ website:
   favicon: images/favicon.ico
   twitter-card: true
   open-graph: true
-  page-footer: "{{< fa regular copyright >}} Copyright 2023, Maxime Labonne" 
+  page-footer: "" 
 
   sidebar:
     - id: articles
@@ -130,4 +128,4 @@ format:
 
 comments:
   utterances:
-    repo: https://github.com/mlabonne/blog
+    repo: https://github.com/jeanie-oh
