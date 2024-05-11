@@ -1,17 +1,11 @@
+My blog was forked from the:
 # Yevgeniy Brikman Home Page
+It was fantastic
+Thank you!
 
-This is the code for the [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
-
-![Yevgeniy Brikman Home Page Screenshot](/assets/img/screenshots/ybrikman-homepage-screenshot.png)
-
-I wanted a clean, simple home page where I could put my writing, speaking,
-projects, and photos. It had to be fast, mobile-friendly, free to build, and
-easy to update. This is the result. Forks and pull requests are welcome!
 
 Check out [Migrating from Blogger to GitHub Pages and launching the new ybrikman.com](https://www.ybrikman.com/writing/2015/04/20/migrating-from-blogger-to-github-pages/)
-for background info.
-
-
+for more info.
 
 
 ## Quick start
