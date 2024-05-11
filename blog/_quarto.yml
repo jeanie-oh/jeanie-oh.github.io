@@ -4,7 +4,7 @@ project:
 website:
   title: "The Data Chic"
   description: "Seeing the world through data..."
-  site-url: https://jeanie-oh.github.io
+  site-url: https://jeanie-oh.github.io/blog
   navbar:
     left:
       - text: "{{< fa book >}} Hands-On GNNs"
