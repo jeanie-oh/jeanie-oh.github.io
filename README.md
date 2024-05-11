@@ -1,5 +1,5 @@
 My blog was forked from the:
-# Yevgeniy Brikman Home Page
+Yevgeniy Brikman Home Page
 It was fantastic
 Thank you!
 
