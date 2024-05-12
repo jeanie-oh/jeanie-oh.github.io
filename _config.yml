@@ -14,7 +14,7 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-name: "The Data Chic"
+name: "A Data Chic"
 description: "Blog dedicated to thinking with data, no opinions, just facts &quot;Hello, Startup&quot; and &quot;Terraform: Up & Running&quot;, and software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial."
 thumbnail_path: "profile-photos/jeanie-oh-med.jpg"
 website_repo_url: "https://github.com/jeanie-oh/jeanie-oh.github.io"
