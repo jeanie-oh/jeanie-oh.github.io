@@ -4,18 +4,18 @@ url: "https://jeanie-oh.github.io"
 # Internal nav
 nav:
   main:
-    writing: "/writing"
+    blog: "/blog"
     speaking: "/speaking"
     projects: "/projects"
-  writing:
+  blog:
     all: "/writing"
-    popular: "/writing/popular"
-    tags: "/writing/tags"
+    popular: "/blog/popular"
+    tags: "/blog/tags"
     rss: "/feed.xml"
 
 # Bio settings
 name: "A Data Chic"
-description: "Blog dedicated to thinking with data, no opinions, just facts &quot;Hello, Startup&quot; and &quot;Terraform: Up & Running&quot;, and software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial."
+description: "Blog dedicated to thinking with data, no opinions, just facts."
 thumbnail_path: "profile-photos/jeanie-oh-med.jpg"
 website_repo_url: "https://github.com/jeanie-oh/jeanie-oh.github.io"
 atomic_squirrel_url: "https://www.atomic-squirrel.net/"
@@ -41,8 +41,8 @@ contact_urls:
 
 # Jekyll build settings
 paginate: 10
-paginate_path: "/writing/page:num"
-permalink: "/writing/:year/:month/:day/:title/"
+paginate_path: "/blog/page:num"
+permalink: "/blog/:year/:month/:day/:title/"
 sass:
   sass_dir: "/assets/css"
   style: :compressed
