@@ -5,10 +5,10 @@ url: "https://jeanie-oh.github.io"
 nav:
   main:
     blog: "/blog"
-    speaking: "/speaking"
+    travel: "/travel"
     projects: "/projects"
   blog:
-    all: "/writing"
+    all: "/blog"
     popular: "/blog/popular"
     tags: "/blog/tags"
     rss: "/feed.xml"
