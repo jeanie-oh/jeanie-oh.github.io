@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lessons learned from losing 50 lbs"
+title: "Placeholder #3"
 tags:
 - Nutrition
 - Health and Fitness

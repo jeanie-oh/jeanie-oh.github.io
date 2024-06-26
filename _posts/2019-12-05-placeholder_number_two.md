@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[NEW TALK] Automated Testing for Terraform, Docker, Packer, Kubernetes, and More"
+title: "Placeholder #2"
 tags:
 - DevOps
 - Software Engineering
