@@ -1,10 +1,10 @@
-- name: "Gruntwork"
+- name: "Project Placeholder #1"
   date: "2016"
   description: |
     This is a description for project placeholder number one.
   url: "https://www.gruntwork.io"
   image: "gruntwork-logo.png"
-- name: "Hello, Startup"
+- name: "Project Placeholder #2"
   date: "2015"
   description: |
     This is a description for project placeholder number one.
