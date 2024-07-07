@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Placeholder #1"
+title: "Chasing the WHY in sentiment analysis"
 tags:
 - Data
 - Interactive
 - World Bank
-thumbnail_path: "blog/placeholder_number_one/terraform-up-and-running-3rd-edition-3d-cover-medium.png"
-external_url: ""
+thumbnail_path: blog/placeholder_number_one/ask-customer-feedback.png
+external_url: "https://deepnote.com/app/jeanie-oh/Interviews-8df4f567-748f-4a9f-b18c-3f9fea813441"
 ---
 
 This is a placeholder for blog number 1 [3rd edition of Terraform: Up &
