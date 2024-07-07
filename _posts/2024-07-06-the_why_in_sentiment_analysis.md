@@ -15,7 +15,7 @@ I will walk us through the whole process from data loading, data cleansing, toke
 
 First of all, the data is taken from a music website where users write extensive reviews on what they love and hate about each album/song. Below is a sample of one row:
 
-{% include image.html path="blog/placeholder_number_one/sampleData.png" %}
+{% include image.html path="blog/placeholder_number_one/sampleData.png" alt="Sample Data" %}
 
 {% include figure.html path="blog/placeholder_number_one/sentiment_chart.png" alt="Analysis Results" url=page.external_url %}
 
