@@ -15,13 +15,13 @@ I will walk us through the whole process from data loading, data cleansing, toke
 
 First of all, the data is taken from a music website where users write extensive reviews on what they love and hate about each album/song. Below is a sample of one row:
 
-{% include image.html path="blog/placeholder_number_one/sampleData.png"}
+{% include figure.html path="blog/placeholder_number_one/sampleData.png"}
 
 {% include figure.html path="blog/placeholder_number_one/sentiment_chart.png" alt="Analysis Results" url=page.external_url %}
 
 You can view the details on my [Deepnote Project]({{ page.external_url }}):
 
-<iframe height="450" src="https://deepnote.com/app/jeanie-oh/Interviews-8df4f567-748f-4a9f-b18c-3f9fea813441?__embedded=true" title="Interviews" width="800" allowfullscreen></iframe>
+<iframe height="400" src="https://deepnote.com/app/jeanie-oh/Interviews-8df4f567-748f-4a9f-b18c-3f9fea813441?__embedded=true" title="Interviews" width="800" allowfullscreen></iframe>
 
 
 
