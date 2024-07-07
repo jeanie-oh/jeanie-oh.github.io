@@ -14,7 +14,7 @@ Running](https://www.terraformupandrunning.com/) is an example of a link.
 
 You can find the video and slides on [InfoQ]({{ page.external_url }}):
 
-{% include image.html path="blog/placeholder_number_one/sentiment_chart.png" url=page.external_url}
+{% include figure.html path="blog/placeholder_number_one/sentiment_chart.png" url=page.external_url}
 
-{% include figure.html path=page.thumbnail_path caption=page.title url=page.external_url %}
+
 
