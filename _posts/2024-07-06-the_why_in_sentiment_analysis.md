@@ -5,7 +5,7 @@ tags:
 - Data
 - Interactive
 - World Bank
-thumbnail_path: "blog/placeholder_number_one/terraform-up-and-running-3rd-edition-3d-cover-medium.png"
+thumbnail_path: "https://deepnote.com/app/jeanie-oh/Interviews-8df4f567-748f-4a9f-b18c-3f9fea813441"
 external_url: ""
 ---
 
