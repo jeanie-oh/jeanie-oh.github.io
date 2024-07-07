@@ -2,9 +2,9 @@
 layout: post
 title: "Chasing the WHY in sentiment analysis"
 tags:
-- Data
+- Churn
 - Interactive
-- World Bank
+- Product Analytics
 thumbnail_path: blog/placeholder_number_one/ask-customer-feedback.png
 external_url: "https://deepnote.com/app/jeanie-oh/Interviews-8df4f567-748f-4a9f-b18c-3f9fea813441"
 ---
