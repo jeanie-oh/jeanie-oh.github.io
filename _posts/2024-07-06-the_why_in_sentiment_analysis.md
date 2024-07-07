@@ -23,6 +23,8 @@ You can view the details on my [Deepnote Project]({{ page.external_url }}):
 
 <iframe height="400" src="https://deepnote.com/app/jeanie-oh/Interviews-8df4f567-748f-4a9f-b18c-3f9fea813441?__embedded=true" title="Interviews" width="800" allowfullscreen></iframe>
 
+Thanks for reading! Please provide any feedback that could help me improve :)
+
 
 
 
