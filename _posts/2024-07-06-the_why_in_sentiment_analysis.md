@@ -17,11 +17,17 @@ First of all, the data is taken from a music website where users write extensive
 
 {% include image.html path="blog/placeholder_number_one/sampleData.PNG" alt="Sample Data" %}
 
-{% include figure.html path="blog/placeholder_number_one/sentiment_chart.png" alt="Analysis Results" url=page.external_url %}
+As you can see, each review is rich with detail and nuances for us to glean insight but each review would take at least 5 minutes to read and when we compound this by thousands or millions, it becomes untenable to find helpful patterns in the data.
 
-You can view the details on my [Deepnote Project]({{ page.external_url }}):
+A good first step in my mind was to start classifying the reviews between positive, neutral and negative for us to start organising insight into "What is working that we could further optimize?" vs "Why do they dislike the product (churn reason)?" 
+
+I can walk you thorugh the code details on my [Deepnote Project]({{ page.external_url }}). Deepnote is the most fantastic tool that combines the power of SQL and Python to give an entire cloud-based pipeline in one place!:
 
 <iframe height="400" src="https://deepnote.com/app/jeanie-oh/Interviews-8df4f567-748f-4a9f-b18c-3f9fea813441?__embedded=true" title="Interviews" width="800" allowfullscreen></iframe>
+
+Below was a rough first cut of the findings that resulted from the Naive Bayes classifier:
+
+{% include figure.html path="blog/placeholder_number_one/sentiment_chart.png" alt="Analysis Results" url=page.external_url %}
 
 Thanks for reading! Please provide any feedback that could help me improve :)
 
