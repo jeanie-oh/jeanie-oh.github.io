@@ -15,6 +15,8 @@ I will walk us through the whole process from data loading, data cleansing, toke
 
 You can view the details on my [Deepnote Project]({{ page.external_url }}):
 
+<iframe height="450" src="https://deepnote.com/app/jeanie-oh/Interviews-8df4f567-748f-4a9f-b18c-3f9fea813441?__embedded=true" title="Interviews" width="800" allowfullscreen></iframe>
+
 {% include figure.html path="blog/placeholder_number_one/sentiment_chart.png" alt="Analysis Results" url=page.external_url %}
 
 
