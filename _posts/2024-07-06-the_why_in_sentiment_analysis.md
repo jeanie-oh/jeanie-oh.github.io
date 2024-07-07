@@ -23,7 +23,7 @@ A good first step in my mind was to start classifying the reviews between positi
 
 I can walk you thorugh the code details on my [Deepnote Project]({{ page.external_url }}). Deepnote is the most fantastic tool that combines the power of SQL and Python to give an entire cloud-based pipeline in one place!:
 
-<iframe height="400" src="https://deepnote.com/app/jeanie-oh/Interviews-8df4f567-748f-4a9f-b18c-3f9fea813441?__embedded=true" title="Interviews" width="800" allowfullscreen></iframe>
+<iframe height="400" src="https://deepnote.com/app/jeanie-oh/Interviews-8df4f567-748f-4a9f-b18c-3f9fea813441?__embedded=true" title="Interviews" width="400" allowfullscreen></iframe>
 
 Below was a rough first cut of the findings that resulted from the Naive Bayes classifier:
 
