@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "A Data Chic: Projects"
-header_title: Projects
-include_header: projects_header.html
-nav_item: projects
+title: "A Data Chic: App"
+header_title: App
+include_header: app.html
+nav_item: app
 ---
 
-{% for project in site.data.projects %}
-  {% include project-outline.html project=project %}
+{% for project in site.data.app %}
+  {% include app.html app=app %}
 {% endfor %}
