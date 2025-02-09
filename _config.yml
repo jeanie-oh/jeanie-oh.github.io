@@ -15,7 +15,7 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-name: "A Data Chic"
+name: "Jeanie Oh"
 description: "Blog dedicated to thinking with data, no opinions, just facts."
 thumbnail_path: "profile-photos/jeanie-oh-med.jpg"
 website_repo_url: "https://github.com/jeanie-oh/jeanie-oh.github.io"
