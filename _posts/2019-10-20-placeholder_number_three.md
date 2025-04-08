@@ -7,8 +7,7 @@ tags:
 thumbnail_path: blog/50-lbs-lost/costco-chicken-1.jpg
 ---
 
-On January 10, 2019, I weighed in at 223 lbs. On October 20, I weighed in at 173 lbs. That's 50 pounds lost (22.7 kg) 
-in 10 months.
+An aricle on dieting...(not written by me, just a placeholder)
 
 {% include image.html path="blog/50-lbs-lost/weight-loss-chart-only.png" alt="My weight loss chart" %}
 
